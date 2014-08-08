@@ -26,7 +26,8 @@
   "dependencies": {
     "ipaddr.js": ">= 0.1.1",
     "native-dns-cache": ">= 0.0.1",
-    "native-dns-packet": ">= 0.0.4"
+    "native-dns-packet": ">= 0.0.4",
+    "underscore": "^1.6.0"
   },
   "devDependencies": {
     "optimist": "",
